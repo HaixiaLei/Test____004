@@ -10,7 +10,7 @@
 
 /*产品区分*/
 #if ProductID == 1
-#define LinkUrl      @"https://m.hhhg6668.com/"
+#define LinkUrl      @"http://tt9955tt.com?api_id=1/"
 //#define LinkUrl        @"https://m.hg98985.com/"
 #define UpdateUrl      @"https://hg00086.firebaseapp.com/d/d1.json"
 #elif ProductID == 2
@@ -35,7 +35,7 @@
 
 @interface ViewController : UIViewController
 
-@property(nonatomic, strong) UIWebView *webView;
+
 
 
 @end
